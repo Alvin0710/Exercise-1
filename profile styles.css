@@ -4,17 +4,31 @@
 }
 
 h1{
-    position: relative;
+    position : relative;
     background: black;
     color: white;
     padding: 50, 0, 0, 0 px;
     text-align: center;
-}
+} 
 
 body{
     text-align: justify;
+    background-image: url("small-memory-medium.");
 }
 
 p{
     text-align: justify;
+    text-indent: 50px;
 }
+
+address{
+    text-align: right;
+}
+
+.container{
+    background-color: darkgrey;
+    color: white;
+    text-align: center;
+}
+
+
